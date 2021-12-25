@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 from pathlib import Path
-import django heroku
+import django_heroku
 
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 django_heroku.settings(locals())
