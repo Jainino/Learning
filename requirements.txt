@@ -9,4 +9,4 @@ six==1.16.0
 sqlparse==0.4.2
 virtualenv==20.8.1
 gunicorn
-djiango-heroku
+django-heroku
